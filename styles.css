@@ -1,0 +1,23 @@
+.theme{
+color: #E96C4C;
+font-family: 'Farro', sans-serif;
+}
+.center{
+display: flex;
+justify-content: center;
+}
+
+.bloque{
+display: flex;
+justify-content: center;
+text-align: center;
+}
+
+input{
+font-size: 1rem;
+color: #E96C4C;
+padding: .4rem;
+background-color:#2B6E7B;
+border-radius: .1rem;
+}
+
